@@ -40,4 +40,6 @@ Streamlit App: Interactive web application to explore findings
 ✅ Streamlit application
 ✅ Documentation and code comments
 
+download the csv file from https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge?resource=download&select=metadata.csv
+
 
